@@ -1,0 +1,3 @@
+This interactive Python program simulates a pet cat Miya.
+Users can create and manage a cat by feeding, playing, letting it sleep, celebrating birthdays, and tracking its happiness index.
+It supports command-line arguments for flexible setup and menu-driven actions for dynamic interaction. Designed for beginners learning object-oriented programming, error handling, recursion, and command-line usage.
